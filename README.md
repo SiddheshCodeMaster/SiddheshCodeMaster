@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Shankar 😀👨‍💻👨‍💻</h1>
-<h3 align="center">I'm a passionate technology enthusiast who believes in Mutual Growth. Always trying to learn new things which get introduced in the Computer World. Being a Data Science enthusiast gives me a lot of excitement working with Data. Furthermore, I have worked on group projects efficiently and diligently, which makes me a good team player. I also like working with Database Management Systems. I have applied some of the Machine Learning concepts in data sets taken from Kaggle. Written technical articles showcasing my knowledge as well as an understanding of my concepts. Not only that, but I feel privileged to be a part of the Computer Science Family. It is an ever-growing field and I hope that someday I will contribute to this field. I'm currently a third year CS student along with pursuing Specialization in Data Science from Symbiosis Institute of Technology, Pune.</h3>
+<h3 align="center">
+I'm a passionate technology enthusiast who believes in Mutual Growth. 
+
+Always trying to learn new things which get introduced in the Computer World. Being a Data Science enthusiast gives me a lot of excitement working with Data. Furthermore, I have worked on group projects efficiently and diligently, which makes me a good team player. 
+
+I also like working with Database Management Systems. I have applied some of the Machine Learning concepts in data sets taken from Kaggle. Written technical articles showcasing my knowledge as well as an understanding of my concepts. 
+  
+Not only that, but I feel privileged to be a part of the Computer Science Family. It is an ever-growing field and I hope that someday I will contribute to this field.
+
+I'm currently a third year CS student along with pursuing Specialization in Data Science from Symbiosis Institute of Technology, Pune.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshcodemaster&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshcodemaster" /> </p>
 
