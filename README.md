@@ -12,13 +12,13 @@ I'm currently a third year CS student along with pursuing Specialization in Data
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshcodemaster&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshcodemaster" /> </p>
 
-- 🌱 I’m currently learning **machine learning concepts, data analysis & statistics**
+- 🌱 I’m currently learning **Deep Learning for Computer Vision, Machine Learning Concepts, Data Analysis & Statistics**
 
 - 👨‍💻 My Kaggle Works: [https://www.kaggle.com/siddheshshankarcoder](https://www.kaggle.com/siddheshshankarcoder)
 
 - 📝 I write technical articles on [https://dev.to/siddheshcodemaster](https://dev.to/siddheshcodemaster)
 
-- 📫 How to reach me **barnali.siddhesh@gmail.com**
+- 📫 How to reach me **siddhesh.shankar.btech2019@sitpune.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
