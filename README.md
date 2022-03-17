@@ -12,7 +12,7 @@ I'm currently a third year CS student along with pursuing Specialization in Data
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshcodemaster&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshcodemaster" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning for Computer Vision, Data Analysis & Statistics, Transformers etc.**
+- 🌱 I’m currently learning **Deep Learning, Image Slicing and Segmentation, GANs and other Augmentation techniques, Grsphical Neural Network(GNNs), Data Analysis & Statistics, Transformers etc.**
 
 - 👨‍💻 My Kaggle Works: [https://www.kaggle.com/siddheshshankarcoder](https://www.kaggle.com/siddheshshankarcoder)
 
