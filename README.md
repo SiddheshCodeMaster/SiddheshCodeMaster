@@ -12,11 +12,13 @@ I'm currently a final year CS student along with pursuing Specialization in Data
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshcodemaster&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshcodemaster" /> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing, Deep Learning, Image Slicing and Segmentation, GANs and other Augmentation techniques, Graphical Neural Network(GNNs), Data Analysis & Statistics, Transformers etc.**
+- 🌱 I’m currently learning **Data Analysis & Statistics, Natural Language Processing, Machine Learning, Deep Learning, Transformers, Meta-Learning etc.**
 
 - 👨‍💻 My Kaggle Works: [https://www.kaggle.com/siddheshshankarcoder](https://www.kaggle.com/siddheshshankarcoder)
 
 - 📝 I write technical articles on [https://dev.to/siddheshcodemaster](https://dev.to/siddheshcodemaster)
+
+- I have my own website where I write blogs on football. Here's the link: [https://theazulgranasarena.blogspot.com/](https://theazulgranasarena.blogspot.com/)
 
 - 📫 How to reach me **siddhesh.shankar.btech2019@sitpune.edu.in**
 
