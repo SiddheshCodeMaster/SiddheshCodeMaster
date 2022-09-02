@@ -12,7 +12,7 @@ I'm currently a final year CS student along with pursuing Specialization in Data
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshcodemaster&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshcodemaster" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis & Statistics, Natural Language Processing, Machine Learning, Deep Learning, Transformers, Meta-Learning etc.**
+- 🌱 I’m currently exploring **Data Analysis & Statistics, Natural Language Processing, Machine Learning, Deep Learning, Transformers, Meta-Learning etc.**
 
 - 👨‍💻 My Kaggle Works: [https://www.kaggle.com/siddheshshankarcoder](https://www.kaggle.com/siddheshshankarcoder)
 
