@@ -18,7 +18,7 @@ I am currently learning how to use Mongo DB as well as the entire Java architect
 
 - 👨‍💻 My Kaggle Works: [https://www.kaggle.com/siddheshshankarcoder](https://www.kaggle.com/siddheshshankarcoder)
 
-- 📝 I write technical articles on [https://dev.to/siddheshcodemaster](https://dev.to/siddheshcodemaster)
+- 📝 I write technical articles on [https://dev.to/siddheshcodemaster](https://dev.to/siddheshcodemaster) as well as [https://siddheshimplementstechnology.blogspot.com/](https://siddheshimplementstechnology.blogspot.com/)
 
 - I have my own website where I write blogs on football. Here's the link: [https://theazulgranasarena.blogspot.com/](https://theazulgranasarena.blogspot.com/)
 
