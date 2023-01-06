@@ -8,7 +8,7 @@ I also like working with Database Management Systems. I have applied some of the
   
 Not only that, but I feel privileged to be a part of the Computer Science Family. It is an ever-growing field and I hope that someday I will contribute to this field.
 
-I'm currently a final year CS student along with pursuing Specialization in Data Science from Symbiosis Institute of Technology, Pune.</h3>
+I'm currently a final year CS student along with pursuing Specialization in Data Science from Symbiosis Institute of Technology, Pune. I am also working as a business analyst at EasyEcom Pvt. Ltd., Bengaluru, Karnataka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshcodemaster&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshcodemaster" /> </p>
 
