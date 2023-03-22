@@ -10,7 +10,7 @@ Not only that, but I feel privileged to be a part of the Computer Science Family
 
 I'm currently a final year CS student along with pursuing Specialization in Data Science from Symbiosis Institute of Technology, Pune. I am also working as a business analyst at EasyEcom Pvt. Ltd., Bengaluru, Karnataka.
 
-I am currently learning how to use Mongo DB as well as Java.</h3>
+I am currently learning how to use Graph Database as well as Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshcodemaster&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshcodemaster" /> </p>
 
