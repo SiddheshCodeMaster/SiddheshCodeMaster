@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Shankar 😀👨‍💻👨‍💻</h1>
 <p align="center">
+  
 I'm a passionate technology enthusiast who believes in Mutual Growth. 
 
 Always trying to learn new things which get introduced in the Computer World. Being a Data Science enthusiast gives me a lot of excitement working with Data. Furthermore, I have worked on group projects efficiently and diligently, which makes me a good team player. 
@@ -8,9 +9,9 @@ I also like working with Database Management Systems. I have applied some of the
   
 Not only that, but I feel privileged to be a part of the Computer Science Family. It is an ever-growing field and I hope that someday I will contribute to this field.
 
-I'm currently a final year CS student along with pursuing Specialization in Data Science from Symbiosis Institute of Technology, Pune. I am also working as a business analyst at EasyEcom Pvt. Ltd., Bengaluru, Karnataka.
+I have completed my B.Tech in CS along with Honor's in Data Science from Symbiosis Institute of Technology, Pune. Currently working in Oracle Financial Services Software as an Associate Consultant.
 
-I am currently learning how to use Graph Database as well as Java. </p>
+I am currently learning how to use Graph Database and DOM manipulation using JavaScript. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshcodemaster&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshcodemaster" /> </p>
 
