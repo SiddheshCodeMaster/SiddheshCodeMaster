@@ -13,8 +13,6 @@ I have completed my B.Tech in CS along with Honor's in Data Science from Symbios
 
 I am currently learning how to use Graph Database and DOM manipulation using JavaScript. </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshcodemaster&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshcodemaster" /> </p>
-
 - 🌱 I’m currently exploring **Data Analysis & Statistics, Natural Language Processing, Machine Learning, Deep Learning, Transformers, Meta-Learning etc.**
 
 - 👨‍💻 My Kaggle Works: [https://www.kaggle.com/siddheshshankarcoder](https://www.kaggle.com/siddheshshankarcoder)
