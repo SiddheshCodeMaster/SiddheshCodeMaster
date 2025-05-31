@@ -1,35 +1,130 @@
-<h1 align="center">Hi 👋, I'm Siddhesh Shankar 😀👨‍💻👨‍💻</h1>
-<p align="center">
-  
-I'm a passionate technology enthusiast who believes in Mutual Growth. 
+## Hi 👋, I'm Siddhesh Shankar
+### 🚀 Aspiring Data Scientist | Backend Developer | Technology Enthusiast
 
-Always trying to learn new things which get introduced in the Computer World. Being a Data Science enthusiast gives me a lot of excitement working with Data. Furthermore, I have worked on group projects efficiently and diligently, which makes me a good team player. 
+---
 
-I also like working with Database Management Systems. I have applied some of the Machine Learning concepts in data sets taken from Kaggle. Written technical articles showcasing my knowledge as well as an understanding of my concepts. 
-  
-Not only that, but I feel privileged to be a part of the Computer Science Family. It is an ever-growing field and I hope that someday I will contribute to this field.
+I'm a data-driven dreamer with a caffeine-fueled passion for data science, backend logic, and lifelong learning. Whether it’s crunching numbers, decoding patterns, or debugging one-liners at 2 AM — I’m all in for the thrill of the tech chase. 🚀
 
-I have completed my B.Tech in CS along with Honor's in Data Science from Symbiosis Institute of Technology, Pune. Currently working in Oracle Financial Services Software as an Associate Consultant.
+📊 I believe data tells stories, and I’m here to be the translator. From building ML models that actually behave 🤖 to visualizing insights that make you go “Whoa!” — I’m obsessed with turning raw data into real-world impact. Whether it's a solo Kaggle challenge or a high-energy group project, I bring both curiosity and collaboration to the table.
 
-I am currently learning how to use Graph Database and DOM manipulation using JavaScript. </p>
+🗄️ Databases? Oh, I love those. Be it MongoDB, MySQL, or just a humble .csv, I enjoy diving into structured chaos and coming out with optimized order. I’ve used machine learning on all sorts of datasets (yes, some were messy — but hey, that’s half the fun!), and I regularly share my findings in technical blogs to keep the knowledge flowing.
 
-- 🌱 I’m currently exploring **Data Analysis & Statistics, Natural Language Processing, Machine Learning, Deep Learning, Transformers, Meta-Learning etc.**
+🎓 I hold a B.Tech in Computer Science with Honors in Data Science from Symbiosis Institute of Technology, Pune — proudly wearing both hats: engineer & data whisperer. By day, I’m an Associate Consultant at Oracle Financial Services Software, and by night, you’ll find me exploring Graph Databases, wrangling DOM elements with JavaScript, or just enjoying a good football stat.
 
-- 👨‍💻 My Kaggle Works: [https://www.kaggle.com/siddheshshankarcoder](https://www.kaggle.com/siddheshshankarcoder)
+Let’s just say — if it involves data, logic, or storytelling, I’m probably already there... or will be soon! 😄📈
+---
 
-- 📝 I write technical articles on [https://dev.to/siddheshcodemaster](https://dev.to/siddheshcodemaster) as well as [https://siddheshimplementstechnology.blogspot.com/](https://siddheshimplementstechnology.blogspot.com/)
+### 🔭 I’m Currently Exploring:
+- Data Analysis & Statistics  
+- Natural Language Processing (NLP)  
+- Machine Learning & Deep Learning  
+- Transformers & Meta-Learning  
+- Graph Databases
 
-- I have my own website where I write blogs on football. Here's the link: [https://theazulgranasarena.blogspot.com/](https://theazulgranasarena.blogspot.com/)
+---
 
-- 📫 How to reach me **siddhesh.shankar.btech2019@sitpune.edu.in**
+### 📊 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/siddheshcodemaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/siddheshcodemaster" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/siddheshshankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/siddheshshankar" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/siddheshshankarcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/siddheshshankarcoder" height="30" width="40" /></a>
-</p>
+![Siddhesh Shankar's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SiddheshCodeMaster&show_icons=true&theme=radical)
 
-<h3 align="left">Languages and Tools that I know how to use:</h3>
-<p align="left"> </a> <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R language", width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://openrefine.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Google-refine-logo.svg" alt="Open Refine" width="40" height="40"/></a></p>  <a href="https://orangedatamining.com/" target="_blank" rel="noreferrer"> <img src="https://rb.gy/g8z60d" alt="Orange Data Mining Tool" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="nonreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/></a>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SiddheshCodeMaster&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddheshCodeMaster&theme=radical)
+
+
+## 🚀 Featured Projects
+
+### 🛒 Qwikart – E-Commerce Web Application  
+🔗 [View Project](https://github.com/SiddheshCodeMaster/Qwikart)
+
+**Overview:**  
+A full-stack e-commerce platform simulating real-world online shopping with authentication, product listings, cart, and order management.
+
+**Tech Stack:**  
+`React.js` | `Node.js` | `Express.js` | `MongoDB` | `JWT` | `Redux`
+
+**Key Features:**
+- User authentication & authorization
+- Product catalog with filters
+- Shopping cart + order history
+- Admin panel for product CRUD
+
+---
+
+### 📰 Fake News Classifier Using Deep Learning  
+🔗 [View Project](https://github.com/SiddheshCodeMaster/Kaggle-Fake-News-Classifier-using-Deep-Learning)
+
+**Overview:**  
+A deep learning model using **LSTM networks** to classify news articles as real or fake. Tuned for high accuracy.
+
+**Tech Stack:**  
+`Python` | `TensorFlow` | `Keras` | `scikit-learn` | `LSTM`
+
+**Key Features:**
+- 90.63% accuracy
+- Hyperparameter tuning with RandomSearch
+- Clean preprocessing pipeline
+
+---
+
+### 🕸️ Automated Web Scraping Using Python  
+🔗 [View Project](https://github.com/SiddheshCodeMaster/Automated-Web-Scrapping-using-Python)
+
+**Overview:**  
+A simple yet powerful script that automates web scraping tasks to extract and structure online product data.
+
+**Tech Stack:**  
+`Python` | `BeautifulSoup` | `Requests` | `Pandas`
+
+**Key Features:**
+- Extracts product name, price, and ratings
+- Saves results in structured CSV
+- Clean and modular code design
+
+---
+
+### 🧠 Alzheimer's Detection Using Vision Transformers  
+🔗 [View Project](https://github.com/SiddheshCodeMaster/Alzheimer_detection_using_Vision_Transformer)
+
+**Overview:**  
+Detects stages of Alzheimer’s from MRI scans using Vision Transformers. Combines deep learning with medical imaging.
+
+**Tech Stack:**  
+`Python` | `PyTorch` | `OpenCV` | `Vision Transformer (ViT)` | `DCGAN`
+
+**Key Features:**
+- Classifies brain scans into four stages
+- Augments data using GANs and traditional methods
+- Future plan: integrate U-Net & Graph Neural Networks
+
+
+### 📘 My Blogs & Articles:
+- ✍️ [Dev.to: Technical Writeups](https://dev.to/siddheshcodemaster)  
+- 📗 [Blogger: Tech Articles](https://siddheshimplementstechnology.blogspot.com/)  
+- ⚽ [Blogger: Football Blog](https://theazulgranasarena.blogspot.com/)
+
+---
+
+### 📫 How to Reach Me:
+- ✉️ **Email**: shankarsiddhesh1606@gmail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/siddheshshankar](https://www.linkedin.com/in/siddheshshankar/)  
+- 💻 **Kaggle**: [kaggle.com/siddheshshankarcoder](https://www.kaggle.com/siddheshshankarcoder)  
+- 🧠 **Dev.to**: [dev.to/siddheshcodemaster](https://dev.to/siddheshcodemaster)  
+
+### 🛠️ Tools & Technologies
+
+> **Data scientist's toolbox — proficiency levels expressed with > data bars! (Still learning and leveling up 🚀)** 
+
+| Language / Tool    | Proficiency | Visual Bar                        |
+| ------------------ | ----------- | --------------------------------- |
+| **Python**         | 80%         | `███████████████████░░░░░░░░░░░`  |
+| **SQL**            | 85%         | `████████████████████░░░░░░░░░░`  |
+| **R**              | 80%         | `███████████████████░░░░░░░░░░░`  |
+| **Tableau**        | 90%         | `█████████████████████░░░░░░░░░`  |
+| **Pandas & NumPy** | 70%         | `████████████████░░░░░░░░░░░░░░░` |
+| **Scikit-Learn**   | 75%         | `█████████████████░░░░░░░░░░░░░░` |
+
+
+### 🤝 Let's Connect and Collaborate!
+I’m always excited to collaborate on meaningful data-driven projects or just connect with like-minded individuals. Feel free to reach out!
 
