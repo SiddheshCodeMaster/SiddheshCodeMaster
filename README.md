@@ -38,15 +38,16 @@ Let’s just say — if it involves data, logic, or storytelling, I’m probably
 🔗 [View Project](https://github.com/SiddheshCodeMaster/Qwikart)
 
 **Overview:**  
-A full-stack e-commerce platform simulating real-world online shopping with authentication, product listings, cart, and order management.
+QwiKart is an innovative e-commerce platform designed to provide an exceptional shopping experience with an emphasis on achieving a ~100% Fulfillment Rate. The platform leverages cutting-edge Python and API-based systems to ensure real-time inventory management, seamless order processing, and timely delivery. At the heart of QwiKart’s philosophy is the concept of “Just-in-Time” fulfillment — providing customers with exactly what they need, when they need it, without any delays or overstocking. 
+To revolutionize the retail experience by offering customers seamless, on-demand access to the products they need, with zero compromise on availability or delivery speed. Achieve a ~ 100% fulfillment rate by combining advanced technologies and streamlined operational strategies. Deliver products to customers on time, every time, using an API-based system designed for efficiency and scalability.
 
 **Tech Stack:**  
 `Python` | `PostgreSQL` | `MongoDB` 
 
 **Key Features:**
-- User authentication & authorization
-- Product catalog with filters
-- Shopping cart + order history
+- Real Time Inventory Management (Dynamic inventory management system) 
+- Demand Forecasting along with advanced API Integration 
+- Just-in-Time Fulfillment along with Seamless User Experience (providing two-faced satisfaction)
 - Admin panel for product CRUD
 
 ---
