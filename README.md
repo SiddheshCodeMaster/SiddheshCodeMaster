@@ -41,7 +41,7 @@ Let’s just say — if it involves data, logic, or storytelling, I’m probably
 A full-stack e-commerce platform simulating real-world online shopping with authentication, product listings, cart, and order management.
 
 **Tech Stack:**  
-`React.js` | `Node.js` | `Express.js` | `MongoDB` | `JWT` | `Redux`
+`Python` | `PostgreSQL` | `MongoDB` 
 
 **Key Features:**
 - User authentication & authorization
